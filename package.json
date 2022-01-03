@@ -1,0 +1,14 @@
+{
+  "name": "neobot",
+  "version": "1.0.0",
+  "description": "A bot made by Neo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
+}
