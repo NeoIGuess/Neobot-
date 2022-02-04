@@ -9,6 +9,11 @@
   "author": "Neo",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.5.0"
+    "canvas": "^2.8.0",
+    "discord.js": "^13.5.0",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^10.0.0",
+    "random-reddit": "^2.0.3",
+    "reddit-image-fetcher": "^2.0.10"
   }
 }
